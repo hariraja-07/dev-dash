@@ -73,7 +73,7 @@ Check if two given strings are anagrams of each other (case-insensitive). Print 
 
 ---
 
-## Project Details 
+## Details 
 
 - **College Name:** [Velalar College of Engineering and Technology](https://www.velalarengg.ac.in/)
 - **Department:** [Computer Science and Engineering](https://www.velalarengg.ac.in/departments/department-of-cse-accredited-by-nba/)
